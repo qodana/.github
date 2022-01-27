@@ -25,7 +25,24 @@
 [jb:docker]: https://hub.docker.com/r/jetbrains/qodana
 [jb:docs]: https://www.jetbrains.com/help/qodana/getting-started.html
 
-**[✒️ Recent posts from dev.to](https://dev.to/tiulpin)**
+**[✒️ Recent posts from dev.to](https://dev.to/qodana)**
+<table>
+  <tr>
+    <td rowspan="2" width="280">
+      <img src="" alt="" width="280">
+    </td>
+    <th>
+      <a href="https://dev.to/qodana/cut-time-on-code-reviews-and-project-planning-with-static-analysis-2lao">Cut Time on Code Reviews and Project Planning With Static Analysis</a>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      When you’re tired of endless code reviews and debugging, you may start wondering if there are ways to...
+      <br>
+      <i>Published on 27 Jan 2022</i>
+    </td>
+  </tr>
+</table>
 <table>
   <tr>
     <td rowspan="2" width="280">
