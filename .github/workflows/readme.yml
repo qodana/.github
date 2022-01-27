@@ -24,7 +24,7 @@ jobs:
           plugin_tweets_user: QodanaEvolves
           plugin_posts: yes
           plugin_posts_source: dev.to
-          plugin_people_user: qodana
+          plugin_posts_user: qodana
           plugin_posts_limit: 3
           plugin_posts_descriptions: yes
           plugin_posts_covers: yes
