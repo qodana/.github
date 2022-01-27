@@ -1,0 +1,61 @@
+![Qodana logo](https://resources.jetbrains.com/storage/products/company/brand/logos/Qodana.png)
+[<img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=304841&theme=dark&period=daily" alt="" align="right" width="190" height="41">](https://www.producthunt.com/posts/jetbrains-qodana)
+
+[![official JetBrains project](https://jb.gg/badges/official.svg)][jb:confluence-on-gh]
+[![GitHub Discussions](https://img.shields.io/github/discussions/jetbrains/qodana)][jb:discussions]
+[![Docker Hub](https://img.shields.io/docker/pulls/jetbrains/qodana.svg)][jb:docker]
+[![Twitter Follow](https://img.shields.io/twitter/follow/QodanaEvolves?style=social&logo=twitter)][jb:twitter]
+
+**[Qodana](https://jb.gg/qodana/try)** is a code quality monitoring tool that identifies and suggests fixes for bugs, security vulnerabilities, duplications, and imperfections.
+
+**[👩‍💻 Qodana on GitHub](https://github.com/JetBrains?q=qodana&type=all&language=&sort=)**
+
+
+- [JetBrains/Qodana](https://github.com/JetBrains/Qodana) – our source of Qodana documentation
+- [JetBrains/qodana-action](https://github.com/jetbrains/qodana-action) – our GitHub action to run Qodana
+- [JetBrains/gradle-qodana-plugin](https://github.com/JetBrains/gradle-qodana-plugin) – our Qodana Gradle plugin
+- [JetBrains/qodana-cli](https://github.com/jetbrains/qodana-cli) – our CLI to run Qodana
+
+
+[youtrack]: https://youtrack.jetbrains.com/issues/QD
+[youtrack-new-issue]: https://youtrack.jetbrains.com/newIssue?project=QD&c=Platform%20GitHub%20Action
+[jb:confluence-on-gh]: https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub
+[jb:discussions]: https://jb.gg/qodana-discussions
+[jb:twitter]: https://twitter.com/QodanaEvolves
+[jb:docker]: https://hub.docker.com/r/jetbrains/qodana
+[jb:docs]: https://www.jetbrains.com/help/qodana/getting-started.html
+
+**[✒️ Recent posts from dev.to](https://dev.to/tiulpin)**
+<table>
+  <tr>
+    <td rowspan="2" width="280">
+      <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--0WpKS2G7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://blog.jetbrains.com/wp-content/uploads/2021/12/qd-blog_15.png" alt="" width="280">
+    </td>
+    <th>
+      <a href="https://dev.to/qodana/better-late-than-never-or-new-years-resolutions-with-qodana-i4h">Better Late Than Never, or New Year’s Resolutions with Qodana</a>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      Even before we started to work on Qodana, we knew from our own experience and user interviews that...
+      <br>
+      <i>Published on 28 Dec 2021</i>
+    </td>
+  </tr>
+</table>
+
+
+**[🐤 Latest tweets from @QodanaEvolves](https://twitter.com/QodanaEvolves)**
+> Why is static code analysis important? How can you benefit from adding another step in the project lifecycle? What kinds of tasks can you delegate to a static analysis tool?<br/><br/>Find the answers to these questions and others in our blog post 👇<br/>
+>
+> <a href="The JetBrains Blog"><img src="https://blog.jetbrains.com/wp-content/uploads/2022/01/DSGN-13163-Static-analysis-with-Qodana-banners_social.png" alt="Cut Time on Code Reviews and Project Planning With Static Analysis | The Qodana Blog" height="200"></a>
+>
+> *11:02:34 on 27 Jan 2022*
+
+> We've decided to switch to using GitHub Discussions instead of Slack to connect with our community, as it's easier to sign up, and discussions won't get so easily lost. You are welcome to join our new Qodana community forum and ask your questions there – 
+>
+> <a href="GitHub"><img src="https://repository-images.githubusercontent.com/317625593/241dbc80-6b01-11eb-9865-fea179ef3dc3" alt="Discussions · JetBrains/Qodana" height="200"></a>
+>
+> *11:36:00 on 21 Jan 2022*
+
+
