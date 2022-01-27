@@ -1,0 +1,31 @@
+name: README
+on:
+  schedule: [{cron: "0 * * * *"}]
+  workflow_dispatch:
+  pull_request:
+  push: {branches: ["master", "main"]}
+
+jobs:
+  qodana:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          template: markdown
+          filename: profile/README.md
+          markdown: https://github.com/qodana/.github/raw/main/README.md
+          config_output: markdown
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_tweets: yes
+          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+          plugin_tweets_attachments: yes
+          plugin_tweets_limit: 3
+          plugin_tweets_user: QodanaEvolves
+          plugin_posts: yes
+          plugin_posts_source: dev.to
+          plugin_people_user: qodana
+          plugin_posts_limit: 3
+          plugin_posts_descriptions: yes
+          plugin_posts_covers: yes
+          plugin_discussions: yes
