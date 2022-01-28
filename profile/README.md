@@ -62,5 +62,17 @@
 </table>
 
 
-**[🐤 Latest tweets from @](https://twitter.com/)**
-An error occured
+**[🐤 Latest tweets from @QodanaEvolves](https://twitter.com/QodanaEvolves)**
+> Why is static code analysis important? How can you benefit from adding another step in the project lifecycle? What kinds of tasks can you delegate to a static analysis tool?<br/><br/>Find the answers to these questions and others in our blog post 👇<br/>
+>
+> <a href="The JetBrains Blog"><img src="https://blog.jetbrains.com/wp-content/uploads/2022/01/DSGN-13163-Static-analysis-with-Qodana-banners_social.png" alt="Cut Time on Code Reviews and Project Planning With Static Analysis | The Qodana Blog" height="200"></a>
+>
+> *11:02:34 on 27 Jan 2022*
+
+> We've decided to switch to using GitHub Discussions instead of Slack to connect with our community, as it's easier to sign up, and discussions won't get so easily lost. You are welcome to join our new Qodana community forum and ask your questions there – 
+>
+> <a href="GitHub"><img src="https://repository-images.githubusercontent.com/317625593/241dbc80-6b01-11eb-9865-fea179ef3dc3" alt="Discussions · JetBrains/Qodana" height="200"></a>
+>
+> *11:36:00 on 21 Jan 2022*
+
+
