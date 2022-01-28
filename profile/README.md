@@ -69,10 +69,4 @@
 >
 > *11:02:34 on 27 Jan 2022*
 
-> We've decided to switch to using GitHub Discussions instead of Slack to connect with our community, as it's easier to sign up, and discussions won't get so easily lost. You are welcome to join our new Qodana community forum and ask your questions there – 
->
-> <a href="GitHub"><img src="https://repository-images.githubusercontent.com/317625593/241dbc80-6b01-11eb-9865-fea179ef3dc3" alt="Discussions · JetBrains/Qodana" height="200"></a>
->
-> *11:36:00 on 21 Jan 2022*
-
 
