@@ -63,6 +63,10 @@
 
 
 **[🐤 Latest tweets from @Qodana](https://twitter.com/Qodana)**
+> <span class="mention">@egmanoj</span> Hi, Scala is not supported for now, but we will support it in the future – <br/><a href="https://t.co/CVIvrcR1yr" class="link">youtrack.jetbrains.com/issue/QD-1031</a>
+>
+> *10:09:15 on 3 Mar 2022*
+
 > RT <span class="mention">@jetbrains</span>: As JetBrains we condemn the attacks taking place. Our hearts are with the Ukrainian people, including our own colleagues and…
 >
 > *12:40:08 on 24 Feb 2022*
