@@ -67,8 +67,4 @@
 >
 > *10:09:15 on 3 Mar 2022*
 
-> RT <span class="mention">@jetbrains</span>: As JetBrains we condemn the attacks taking place. Our hearts are with the Ukrainian people, including our own colleagues and…
->
-> *12:40:08 on 24 Feb 2022*
-
 
