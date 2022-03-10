@@ -63,8 +63,5 @@
 
 
 **[🐤 Latest tweets from @Qodana](https://twitter.com/Qodana)**
-> <span class="mention">@egmanoj</span> Hi, Scala is not supported for now, but we will support it in the future – <br/><a href="https://t.co/CVIvrcR1yr" class="link">youtrack.jetbrains.com/issue/QD-1031</a>
->
-> *10:09:15 on 3 Mar 2022*
-
+No recent tweets
 
