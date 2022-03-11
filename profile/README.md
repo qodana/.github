@@ -63,7 +63,9 @@
 
 
 **[🐤 Latest tweets from @Qodana](https://twitter.com/Qodana)**
-> RT <span class="mention">@jetbrains</span>: JetBrains’ Statement on Ukraine<br/><br/><a href="https://t.co/1I3C59ySvD" class="link">blog.jetbrains.com/2022/03/11/jet…</a>
+> RT <span class="mention">@jetbrains</span>: JetBrains’ Statement on Ukraine<br/>
+>
+> <a href="The JetBrains Blog"><img src="https://blog.jetbrains.com/wp-content/uploads/2022/03/social.png" alt="JetBrains’ Statement on Ukraine | JetBrains News" height="200"></a>
 >
 > *13:29:01 on 11 Mar 2022*
 
