@@ -32,6 +32,23 @@
       <img src="" alt="" width="280">
     </td>
     <th>
+      <a href="https://dev.to/qodana/introducing-qodana-for-azure-pipelines-3l7k">Introducing Qodana for Azure Pipelines</a>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      With Qodana, you can detect, analyze, and resolve code issues right in the CI/CD system you rely on....
+      <br>
+      <i>Published on 7 Apr 2022</i>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td rowspan="2" width="280">
+      <img src="" alt="" width="280">
+    </td>
+    <th>
       <a href="https://dev.to/qodana/cut-time-on-code-reviews-and-project-planning-with-static-analysis-2lao">Cut Time on Code Reviews and Project Planning With Static Analysis</a>
     </th>
   </tr>
