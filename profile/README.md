@@ -86,10 +86,4 @@
 >
 > *10:51:25 on 14 Apr 2022*
 
-> Qodana for Azure Pipelines is now available for download! ✨<br/><br/>With our new extension, you can detect, analyze, and resolve code issues in your  <span class="hashtag">#Azure</span>  DevOps repositories and make code analysis a part of your build pipeline.<br/><br/>👉 <a href="https://t.co/fbLccoE1Xi" class="link">jb.gg/qodana/azure-p…</a> <br/><a href="https://t.co/8o2DqOdRGC" class="link">pic.twitter.com/8o2DqOdRGC</a>
->
-> <a href=""><img src="https://pbs.twimg.com/media/FPvZQBXWUAA59DQ.jpg" alt="" height="200"></a>
->
-> *12:15:22 on 7 Apr 2022*
-
 
