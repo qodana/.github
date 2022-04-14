@@ -80,6 +80,12 @@
 
 
 **[🐤 Latest tweets from @Qodana](https://twitter.com/Qodana)**
+> The ongoing development of CI/CD and the increasing number of QA engineers who work with pipelines make competency in the TestOps field a basic requirement for  <span class="hashtag">#QA</span>  engineers.<br/><br/>But what makes CI/CD tools so great for quality control? Let’s find out 👇<br/>
+>
+> <a href="The JetBrains Blog"><img src="https://blog.jetbrains.com/wp-content/uploads/2022/04/social_share-1.png" alt="Why Do Testers Need CI/CD? | The Qodana Blog" height="200"></a>
+>
+> *10:51:25 on 14 Apr 2022*
+
 > Qodana for Azure Pipelines is now available for download! ✨<br/><br/>With our new extension, you can detect, analyze, and resolve code issues in your  <span class="hashtag">#Azure</span>  DevOps repositories and make code analysis a part of your build pipeline.<br/><br/>👉 <a href="https://t.co/fbLccoE1Xi" class="link">jb.gg/qodana/azure-p…</a> <br/><a href="https://t.co/8o2DqOdRGC" class="link">pic.twitter.com/8o2DqOdRGC</a>
 >
 > <a href=""><img src="https://pbs.twimg.com/media/FPvZQBXWUAA59DQ.jpg" alt="" height="200"></a>
