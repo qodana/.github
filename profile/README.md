@@ -32,6 +32,23 @@
       <img src="" alt="" width="280">
     </td>
     <th>
+      <a href="https://dev.to/qodana/why-do-testers-need-cicd-2lo8">Why Do Testers Need CI/CD?</a>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      Competency in the TestOps field is now just as much of a basic requirement for QA engineers as the...
+      <br>
+      <i>Published on 14 Apr 2022</i>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td rowspan="2" width="280">
+      <img src="" alt="" width="280">
+    </td>
+    <th>
       <a href="https://dev.to/qodana/introducing-qodana-for-azure-pipelines-3l7k">Introducing Qodana for Azure Pipelines</a>
     </th>
   </tr>
@@ -57,23 +74,6 @@
       When you’re tired of endless code reviews and debugging, you may start wondering if there are ways to...
       <br>
       <i>Published on 27 Jan 2022</i>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td rowspan="2" width="280">
-      <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--0WpKS2G7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://blog.jetbrains.com/wp-content/uploads/2021/12/qd-blog_15.png" alt="" width="280">
-    </td>
-    <th>
-      <a href="https://dev.to/qodana/better-late-than-never-or-new-years-resolutions-with-qodana-i4h">Better Late Than Never, or New Year’s Resolutions with Qodana</a>
-    </th>
-  </tr>
-  <tr>
-    <td>
-      Even before we started to work on Qodana, we knew from our own experience and user interviews that...
-      <br>
-      <i>Published on 28 Dec 2021</i>
     </td>
   </tr>
 </table>
