@@ -80,5 +80,10 @@
 
 
 **[🐤 Latest tweets from @Qodana](https://twitter.com/Qodana)**
-No recent tweets
+> Do you keep track of the licenses your code relies on? Is your software compliant with GPL?<br/><br/>If not, your product and entire company could be at risk. Learn how to automate license auditing, make it a part of your CI/CD, and mitigate compliance risks. 👇<br/><br/>
+>
+> <a href="The JetBrains Blog"><img src="https://blog.jetbrains.com/wp-content/uploads/2022/05/Blog_Social_share_image_1280x720-1-1.png" alt="Keep Your Dependency Licenses in Check | The Qodana Blog" height="200"></a>
+>
+> *10:57:54 on 2 May 2022*
+
 
