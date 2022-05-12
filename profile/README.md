@@ -80,5 +80,10 @@
 
 
 **[🐤 Latest tweets from @Qodana](https://twitter.com/Qodana)**
-No recent tweets
+> Qodana 2022.1 is now available! 🎉<br/><br/>🔎 License audit<br/>🆕 PHP inspections<br/>🆕 Java inspections<br/>🆕 Kotlin inspections<br/><br/>Learn more 👇  <span class="hashtag">#NewInQodana</span> <br/>
+>
+> <a href="The JetBrains Blog"><img src="https://blog.jetbrains.com/wp-content/uploads/2022/05/DSGN-13658_Qodana_Release_20221_Blog_Social_share_image_1280x720.png" alt="Qodana 2022.1 Is Available | The Qodana Blog" height="200"></a>
+>
+> *13:39:51 on 12 May 2022*
+
 
