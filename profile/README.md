@@ -32,6 +32,23 @@
       <img src="" alt="" width="280">
     </td>
     <th>
+      <a href="https://dev.to/qodana/qodana-20221-is-available-4ich">Qodana 2022.1 Is Available</a>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      We are continuously adding new functionality and improving Qodana, our code quality platform. To keep...
+      <br>
+      <i>Published on 12 May 2022</i>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td rowspan="2" width="280">
+      <img src="" alt="" width="280">
+    </td>
+    <th>
       <a href="https://dev.to/qodana/why-do-testers-need-cicd-2lo8">Why Do Testers Need CI/CD?</a>
     </th>
   </tr>
@@ -57,23 +74,6 @@
       With Qodana, you can detect, analyze, and resolve code issues right in the CI/CD system you rely on....
       <br>
       <i>Published on 7 Apr 2022</i>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td rowspan="2" width="280">
-      <img src="" alt="" width="280">
-    </td>
-    <th>
-      <a href="https://dev.to/qodana/cut-time-on-code-reviews-and-project-planning-with-static-analysis-2lao">Cut Time on Code Reviews and Project Planning With Static Analysis</a>
-    </th>
-  </tr>
-  <tr>
-    <td>
-      When you’re tired of endless code reviews and debugging, you may start wondering if there are ways to...
-      <br>
-      <i>Published on 27 Jan 2022</i>
     </td>
   </tr>
 </table>
