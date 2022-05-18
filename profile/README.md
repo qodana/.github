@@ -80,6 +80,10 @@
 
 
 **[🐤 Latest tweets from @Qodana](https://twitter.com/Qodana)**
+> <span class="mention">@rharter</span> Replied to you in DM!
+>
+> *16:02:16 on 18 May 2022*
+
 > <span class="mention">@laurindavis</span> <span class="mention">@phpstorm</span> Hi Keith! We don't have any pricing details yet, but we'll make sure to have a special offer for PhpStorm users!
 >
 > *13:44:46 on 18 May 2022*
@@ -87,11 +91,5 @@
 > <span class="mention">@rharter</span> Hi Ryan! Thanks for your feedback!<br/><br/>Qodana is currently free, but we are going to offer some paid options soon as more features are being added. It's independent as a product, but it can be easily integrated with JetBrains IDEs.
 >
 > *13:41:14 on 18 May 2022*
-
-> Qodana 2022.1 is now available! 🎉<br/><br/>🔎 License audit<br/>🆕 PHP inspections<br/>🆕 Java inspections<br/>🆕 Kotlin inspections<br/><br/>Learn more 👇  <span class="hashtag">#NewInQodana</span> <br/>
->
-> <a href="The JetBrains Blog"><img src="https://blog.jetbrains.com/wp-content/uploads/2022/05/DSGN-13658_Qodana_Release_20221_Blog_Social_share_image_1280x720.png" alt="Qodana 2022.1 Is Available | The Qodana Blog" height="200"></a>
->
-> *13:39:51 on 12 May 2022*
 
 
