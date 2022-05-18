@@ -80,6 +80,10 @@
 
 
 **[🐤 Latest tweets from @Qodana](https://twitter.com/Qodana)**
+> <span class="mention">@laurindavis</span> <span class="mention">@phpstorm</span> Hi Keith! We don't have any pricing details yet, but we'll make sure to have a special offer for PhpStorm users!
+>
+> *13:44:46 on 18 May 2022*
+
 > <span class="mention">@rharter</span> Hi Ryan! Thanks for your feedback!<br/><br/>Qodana is currently free, but we are going to offer some paid options soon as more features are being added. It's independent as a product, but it can be easily integrated with JetBrains IDEs.
 >
 > *13:41:14 on 18 May 2022*
