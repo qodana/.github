@@ -88,8 +88,4 @@
 >
 > *13:44:46 on 18 May 2022*
 
-> <span class="mention">@rharter</span> Hi Ryan! Thanks for your feedback!<br/><br/>Qodana is currently free, but we are going to offer some paid options soon as more features are being added. It's independent as a product, but it can be easily integrated with JetBrains IDEs.
->
-> *13:41:14 on 18 May 2022*
-
 
