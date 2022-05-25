@@ -84,8 +84,4 @@
 >
 > *16:02:16 on 18 May 2022*
 
-> <span class="mention">@laurindavis</span> <span class="mention">@phpstorm</span> Hi Keith! We don't have any pricing details yet, but we'll make sure to have a special offer for PhpStorm users!
->
-> *13:44:46 on 18 May 2022*
-
 
