@@ -80,8 +80,5 @@
 
 
 **[🐤 Latest tweets from @Qodana](https://twitter.com/Qodana)**
-> <span class="mention">@rharter</span> Replied to you in DM!
->
-> *16:02:16 on 18 May 2022*
-
+No recent tweets
 
