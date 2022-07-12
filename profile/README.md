@@ -80,5 +80,8 @@
 
 
 **[🐤 Latest tweets from @Qodana](https://twitter.com/Qodana)**
-No recent tweets
+> <span class="mention">@JFabianMeier</span> <span class="mention">@jetbrains</span> Hi! Qodana for JVM has already reached its public release while Qodana for PHP, Qodana for Python, and Qodana for JS are still in the Early Access Program.<br/><br/>Qodana is currently free, but we are planning to introduce our pricing model soon.
+>
+> *13:49:24 on 12 Jul 2022*
+
 
