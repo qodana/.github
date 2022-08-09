@@ -32,6 +32,23 @@
       <img src="" alt="" width="280">
     </td>
     <th>
+      <a href="https://dev.to/qodana/qodana-20222-is-available-50-new-inspections-and-circleci-orb-3i3b">Qodana 2022.2 Is Available: 50+ New Inspections and CircleCI Orb</a>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      Qodana 2022.2 is now available, bringing new and improved code inspections for Java, Kotlin, Android,...
+      <br>
+      <i>Published on 5 Aug 2022</i>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td rowspan="2" width="280">
+      <img src="" alt="" width="280">
+    </td>
+    <th>
       <a href="https://dev.to/qodana/qodana-20221-is-available-4ich">Qodana 2022.1 Is Available</a>
     </th>
   </tr>
@@ -57,23 +74,6 @@
       Competency in the TestOps field is now just as much of a basic requirement for QA engineers as the...
       <br>
       <i>Published on 14 Apr 2022</i>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td rowspan="2" width="280">
-      <img src="" alt="" width="280">
-    </td>
-    <th>
-      <a href="https://dev.to/qodana/introducing-qodana-for-azure-pipelines-3l7k">Introducing Qodana for Azure Pipelines</a>
-    </th>
-  </tr>
-  <tr>
-    <td>
-      With Qodana, you can detect, analyze, and resolve code issues right in the CI/CD system you rely on....
-      <br>
-      <i>Published on 7 Apr 2022</i>
     </td>
   </tr>
 </table>
